@@ -1,7 +1,7 @@
 [project]
 name = "intelligent-matter"
 version = "0.0.1"
-description = "Simulation repository for seminar "Active Matter" at UDS."
+description = "Simulation repository for seminar 'Active Matter' at UDS."
 authors = [{ name = "Noel Schwabenland", email = "noel@schwabenland.ch" }]
 readme = "README.md"
 keywords = ['python']
