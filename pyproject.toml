@@ -17,6 +17,10 @@ classifiers = [
     "Programming Language :: Python :: 3.13",
     "Topic :: Software Development :: Libraries :: Python Modules",
 ]
+dependencies = [
+    "matplotlib>=3.9.4",
+    "numpy>=2.0.2",
+]
 
 [project.urls]
 Homepage = "https://NoxelS.github.io/intelligent-matter/"
